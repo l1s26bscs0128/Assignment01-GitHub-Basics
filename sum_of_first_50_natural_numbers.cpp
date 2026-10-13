@@ -10,3 +10,4 @@ int main() {
     cout<<"sum of first 50 natural number "<< sum<<endl;
     return 0;
 }
+
