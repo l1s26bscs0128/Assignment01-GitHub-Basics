@@ -1,3 +1,4 @@
+//Sum of 50 natural numbers  hamad farid  l1s26bscs0128
 #include <iostream>
 using namespace std;
 int main() {
